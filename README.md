@@ -12,8 +12,6 @@ The ultimate collection of responsive **Cards** built with the latest Bootstrap 
  
 📄[Documentation & usage guide](https://mdbootstrap.com/docs/standard/components/cards/)
  
-▶️[Video tutorial](https://www.youtube.com/watch?v=l5juD9me828)
- 
 ⚙️[Free generator](https://mdbootstrap.com/docs/standard/tools/builders/cards/)
  
 ---------------------
