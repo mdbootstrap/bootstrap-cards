@@ -17,7 +17,6 @@ These templates were built with a **free Material Design UI Kit for the latest B
 <img height="25" src="https://mdbootstrap.com/img/Marketing/general/logo/medium/mdb-r.png">  ![GitHub Repo stars](https://img.shields.io/github/stars/mdbootstrap/mdb-ui-kit?label=Star%20now&style=social)
  
 ---------------------
- <hr class="my-5" />
  <h2 class="mb-4">Minimalist statistics cards</h2> <a target="_blank"
      href="https://mdbootstrap.com/snippets/standard/mdbootstrap/2898120?view=side"><img
          src="https://mdbootstrap.com/img/Photos/new-templates/cards/img1.png" class="w-100" /> </a>
